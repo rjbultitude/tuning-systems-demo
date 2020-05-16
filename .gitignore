@@ -1,0 +1,50 @@
+# Gitignore
+# Add files/folders below to ignore from source control
+
+# Extensions
+*.editorconfig
+*.suo
+*.user
+*.sln.docstates
+*.sln.cache
+*.obj
+*.pdb
+*.user
+*.suo
+*.[Cc]ache
+*.orig
+*.exe
+*.log
+*.DS_Store
+*.tmp
+*.7z
+*.zip
+*.bak
+*.nupkg
+*.dbmdl
+*.publishsettings
+
+# Front-end
+node_modules/
+demo/freqi-demo.js
+
+# Reports
+coverage/
+.nyc_output
+
+# JavaScript
+dist/
+
+# Others
+sql/
+__MACOSX/
+ClientBin/
+[Ss]tyle[Cc]op.*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Project
+# add project specific ignores here
