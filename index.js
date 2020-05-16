@@ -48,7 +48,6 @@ function incrementIndex() {
   } else {
     globalIndex += 1;
   }
-  console.log('globalIndex', globalIndex);
 }
 
 function setOscType(oscillators) {
